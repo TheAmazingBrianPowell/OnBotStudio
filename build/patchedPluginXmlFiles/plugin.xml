@@ -1,0 +1,18 @@
+<!--
+  ~ Copyright (c) 2022 Brian Powell
+  ~ All rights reserved.
+  -->
+<idea-plugin>
+  <version>1.0</version>
+  <idea-version since-build="211.7628" until-build="211.*" />
+  <id>net.rhsrobotics.OnBotStudio</id>
+  <name>OnBotStudio</name>
+  <vendor email="rhsrobotics@gmail.com" url="http://rhsrobotics.net">Roseburg High School Robotics Club</vendor>
+  <description><![CDATA[Compiles and saves code to the robot without needing to open OnBotJava<br>
+    Created by team <a href="https://www.youtube.com/channel/UC2S-1OWRHV1LT1BLhzndq9Q">Aries - 15342</a>]]></description>
+  <depends>com.intellij.modules.platform</depends>
+  <extensions defaultExtensionNs="com.intellij">
+    <toolWindow factoryClass="Output" id="OnBotStudio" anchor="bottom" icon="PluginIcons.toolWindowIcon" />
+  </extensions>
+  <actions />
+</idea-plugin>

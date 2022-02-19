@@ -1,0 +1,38 @@
+<!--
+  ~ Copyright (c) 2022 Brian Powell
+  ~
+  ~ Permission is hereby granted, free of charge, to any person obtaining a copy of this
+  ~ software and associated documentation files (the "Software"), to deal in the Software
+  ~ without restriction, including without limitation the rights to use, copy, modify, merge,
+  ~ publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons
+  ~ to whom the Software is furnished to do so, subject to the following conditions:
+  ~
+  ~ The above copyright notice and this permission notice shall be included in all copies or
+  ~ substantial portions of the Software.
+  ~
+  ~ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+  ~ OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+  ~ MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+  ~ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+  ~ CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT
+  ~ OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE
+  ~ OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  -->
+
+<idea-plugin>
+    <id>net.rhsrobotics.OnBotStudio</id>
+    <name>OnBotStudio</name>
+    <vendor email="rhsrobotics@gmail.com" url="http://rhsrobotics.net">Roseburg High School Robotics Club</vendor>
+
+    <description><![CDATA[
+    Compiles and saves code to the robot without needing to open OnBotJava<br>
+    Created by team <a href="https://www.youtube.com/channel/UC2S-1OWRHV1LT1BLhzndq9Q">Aries - 15342</a>]]></description>
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <toolWindow factoryClass="Output" id="OnBotStudio" anchor="bottom" icon="PluginIcons.toolWindowIcon"/>
+    </extensions>
+
+    <actions>
+    </actions>
+</idea-plugin>

@@ -1,0 +1,28 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.2880.1800@192dpi" x="1440" y="600" />
+  </component>
+  <component name="WindowManager">
+    <frame x="20" y="45" width="1400" height="765" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="508" y="152" key="FileChooserDialogImpl" timestamp="1643865943078">
+      <screen x="0" y="25" width="1440" height="805" />
+    </state>
+    <state x="508" y="152" key="FileChooserDialogImpl/0.25.1440.805" timestamp="1643865943078" />
+    <state x="720" y="392" width="800" height="600" key="WELCOME_SCREEN" timestamp="1645287204818">
+      <screen x="0" y="25" width="1440" height="803" />
+    </state>
+    <state x="720" y="391" width="892" height="598" key="WELCOME_SCREEN/0.25.1440.800" timestamp="1645228072021" />
+    <state x="720" y="392" width="800" height="600" key="WELCOME_SCREEN/0.25.1440.803" timestamp="1645287204818" />
+    <state x="720" y="300" key="WELCOME_SCREEN/0.25.1440.805" timestamp="1643865809428" />
+  </component>
+</application>

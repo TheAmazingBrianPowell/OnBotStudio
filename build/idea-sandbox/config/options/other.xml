@@ -1,0 +1,47 @@
+<application>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="21TwNXUsEj8anuWmkCI0HFrDN7p">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24aO5i46oTTQZYjBjzqlnoYMiR5">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AndroidInitConfigurator.V1" value="true" />
+    <property name="AndroidInitConfigurator.V3" value="true" />
+    <property name="AndroidInitConfigurator.V5" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Downloads/FtcRobotController-master&#10;/Users/blobfish/IdeaProjects/OnBotStudio" />
+    <property name="file.gist.reindex.count" value="64" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="fileTypeDetectors" value="com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector:com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.jetbrains.cidr.lang.OCHeaderFileTypeDetector" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="AI-211.7628.21.2111.8139111" />
+    <property name="installed.kotlin.plugin.version" value="211-1.5.30-release-408-AS7442.40" />
+    <property name="kotlin.plugin.releaseDate" value="211-1.5.30-release-408-AS7442.40:2021-08-24" />
+    <property name="lastSeenTip" value="Kotlin_project.html" />
+    <property name="lastTimeTipsWereShown" value="1644030043994" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/FtcRobotController-master" />
+    <property name="seenTips" value="Kotlin_mix.html,Kotlin_project.html" />
+    <property name="studio.activity.count" value="1" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="FtcRobotController-master-history1" project-path="$USER_HOME$/Downloads/FtcRobotController-master" last-access-time="1645059830108" />
+    </command-history-files>
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="NEW_TOOLBAR_SETTINGS" value="OLD_NAVBAR" />
+  </component>
+</application>

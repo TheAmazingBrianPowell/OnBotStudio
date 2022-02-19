@@ -1,0 +1,60 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="android-native-run-configurations" />
+  </applied-converters>
+  <project-files>
+    <f p="./.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" t="1645227287" />
+    <f p="./.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" t="1645227286" />
+    <f p="./.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" t="1645227286" />
+    <f p="./.idea/libraries/Gradle__org_firstinspires_ftc_FtcCommon_7_0_0_aar.xml" t="1645227287" />
+    <f p="./.idea/libraries/Gradle__com_jakewharton_threetenabp_threetenabp_1_3_1_aar.xml" t="1645227287" />
+    <f p="./.idea/libraries/Gradle__org_firstinspires_ftc_Hardware_7_0_0_aar.xml" t="1645227287" />
+    <f p="./.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" t="1645227287" />
+    <f p="./.idea/libraries/Gradle__org_tensorflow_tensorflow_lite_task_vision_0_2_0_aar.xml" t="1645227288" />
+    <f p="./.idea/libraries/Gradle__org_openftc_opencv_repackaged_4_5_3_B_aar.xml" t="1645227288" />
+    <f p="./.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" t="1645227286" />
+    <f p="./.idea/libraries/Gradle__org_firstinspires_ftc_OnBotJava_7_0_0_aar.xml" t="1645227287" />
+    <f p="./.idea/libraries/Gradle__org_firstinspires_ftc_Blocks_7_0_0_aar.xml" t="1645227287" />
+    <f p="./.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" t="1645227287" />
+    <f p="./.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" t="1645227287" />
+    <f p="./.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0.xml" t="1637978414" />
+    <f p="./.idea/libraries/Gradle__org_firstinspires_ftc_Tfod_7_0_0_aar.xml" t="1645227288" />
+    <f p="./.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" t="1645227287" />
+    <f p="./.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" t="1645227287" />
+    <f p="./.idea/modules/TeamCode/FtcRobotController-master.TeamCode.iml" t="1645227286" />
+    <f p="./.idea/libraries/Gradle__androidx_core_core_1_3_0_aar.xml" t="1645227286" />
+    <f p="./.idea/libraries/Gradle__org_tensorflow_tensorflow_lite_task_base_0_2_0_aar.xml" t="1645227288" />
+    <f p="./.idea/compiler.xml" t="1637978389" />
+    <f p="./.idea/libraries/Gradle__org_firstinspires_ftc_RobotCore_7_0_0_aar.xml" t="1645227287" />
+    <f p="./.idea/modules/FtcRobotController-master.iml" t="1645227286" />
+    <f p="./.idea/modules.xml" t="1637978414" />
+    <f p="./.idea/libraries/Gradle__org_tensorflow_tensorflow_lite_support_0_2_0_aar.xml" t="1645227288" />
+    <f p="./.idea/misc.xml" t="1637978389" />
+    <f p="./.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml" t="1637978414" />
+    <f p="./.idea/gradle.xml" t="1638474501" />
+    <f p="./.idea/jarRepositories.xml" t="1637978415" />
+    <f p="./.idea/vcs.xml" t="1637978793" />
+    <f p="./.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" t="1645227287" />
+    <f p="./.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" t="1645227287" />
+    <f p="./.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" t="1645227287" />
+    <f p="./.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" t="1645227287" />
+    <f p="./.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" t="1645227287" />
+    <f p="./.idea/libraries/Gradle__androidx_collection_collection_1_1_0.xml" t="1637978414" />
+    <f p="./.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" t="1645227287" />
+    <f p="./.idea/libraries/Gradle__org_openftc_easyopencv_1_5_1_aar.xml" t="1645227288" />
+    <f p="./.idea/libraries/Gradle__org_threeten_threetenbp_1_5_1_no_tzdb.xml" t="1637978415" />
+    <f p="./.idea/libraries/Gradle__org_firstinspires_ftc_Inspection_7_0_0_aar.xml" t="1645227287" />
+    <f p="./.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" t="1645227287" />
+    <f p="./.idea/libraries/Gradle__org_firstinspires_ftc_RobotServer_7_0_0_aar.xml" t="1645227287" />
+    <f p="./.idea/libraries/Gradle__androidx_appcompat_appcompat_1_2_0_aar.xml" t="1645227286" />
+    <f p="./.idea/libraries/Gradle__org_checkerframework_checker_qual_2_5_8.xml" t="1637978415" />
+    <f p="./.idea/workspace.xml" t="1644019025" />
+    <f p="./.idea/libraries/Gradle__org_firstinspires_ftc_gameAssets_FreightFrenzy_1_0_0_aar.xml" t="1645227288" />
+    <f p="./.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" t="1645227287" />
+    <f p="./.idea/libraries/Gradle__org_tensorflow_tensorflow_lite_2_4_0_aar.xml" t="1645227288" />
+    <f p="./.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_1_0.xml" t="1637978415" />
+    <f p="./.idea/modules/FtcRobotController/FtcRobotController-master.FtcRobotController.iml" t="1645227286" />
+    <f p="./.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_2_0_aar.xml" t="1645227286" />
+  </project-files>
+</conversion>
