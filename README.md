@@ -9,7 +9,7 @@ A simple plugin that allows programmers to compile code straight from Android St
 1. Select the file that we just downloaded and click open
 1. The words *OnBotStudio* will now show up along the bottom of Android Studio, clicking on this will pull up the compiler
    
-###Setup Video
+### Setup Video
    [![OnBotStudio Setup Video](https://img.youtube.com/vi/-2MAcEz1B3E/maxresdefault.jpg)](
    https://youtu.be/-2MAcEz1B3E)
 
