@@ -8,6 +8,10 @@ A simple plugin that allows programmers to compile code straight from Android St
 1. On the window that opens, click on *plugins*, then click the gear icon at the top of the page and select *install plugin from disk*
 1. Select the file that we just downloaded and click open
 1. The words *OnBotStudio* will now show up along the bottom of Android Studio, clicking on this will pull up the compiler
+   
+###Setup Video
+   [![OnBotStudio Setup Video](https://img.youtube.com/vi/-2MAcEz1B3E/maxresdefault.jpg)](
+   https://youtu.be/-2MAcEz1B3E)
 
 ## Usage
 In the bottom right corner, there is a blue wrench. Clicking this will run the OnBotJava compiling process, and the results will be printed in the console. The Wi-Fi must be connected to the robot in order for this to compile.
