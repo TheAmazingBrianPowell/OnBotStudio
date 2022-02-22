@@ -3,7 +3,6 @@ A simple plugin that allows programmers to compile code straight from Android St
 
 ## Installation
 1. **Important:** Update Android Studio! If you have not installed or set up Android Studio for FTC, follow these [instructions](https://gm0.org/en/latest/docs/software/using-android-studio.html)
-1. Download <a href="https://github.com/TheAmazingBrianPowell/OnBotStudio/releases/download/v1.0.0/OnBotStudio-1.0.jar">OnBotStudio-1.0.jar</a>
 1. Install the most recent version of Android Studio
 1. Launch the IDE
 1. Click on plugins or open preferences > plugins
