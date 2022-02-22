@@ -3,15 +3,17 @@ A simple plugin that allows programmers to compile code straight from Android St
 
 ## Installation
 1. **Important:** Update Android Studio! If you have not installed or set up Android Studio for FTC, follow these [instructions](https://gm0.org/en/latest/docs/software/using-android-studio.html)
-1. Download [OnBotStudio-1.0.jar](build/libs/OnBotStudio-1.0.jar)
-1. Open Android Studio and open preferences
-1. On the window that opens, click on *plugins*, then click the gear icon at the top of the page and select *install plugin from disk*
-1. Select the file that we just downloaded and click open
-1. The words *OnBotStudio* will now show up along the bottom of Android Studio, clicking on this will pull up the compiler
+1. Download <a href="https://github.com/TheAmazingBrianPowell/OnBotStudio/releases/download/v1.0.0/OnBotStudio-1.0.jar">OnBotStudio-1.0.jar</a>
+1. Install the most recent version of Android Studio
+1. Launch the IDE
+1. Click on plugins or open preferences > plugins
+1. Select <em>Marketplace</em> if it's not already selected
+1. Search OnBotStudio and click install
+1. The words OnBotStudio will now show up along the bottom of Android Studio, clicking on this will pull up the compiler
    
 ### Setup Video
-   [![OnBotStudio Setup Video](https://img.youtube.com/vi/-2MAcEz1B3E/maxresdefault.jpg)](
-   https://youtu.be/-2MAcEz1B3E)
+   [![OnBotStudio Setup Video](https://img.youtube.com/vi/Ph1MKyJTvrk/maxresdefault.jpg)](
+   https://youtu.be/Ph1MKyJTvrk)
 
 ## Usage
 In the bottom right corner, there is a blue wrench. Clicking this will run the OnBotJava compiling process, and the results will be printed in the console. The Wi-Fi must be connected to the robot in order for this to compile.
