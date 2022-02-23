@@ -1,5 +1,5 @@
 # OnBotStudio <img src="https://raw.githubusercontent.com/TheAmazingBrianPowell/OnBotStudio/master/src/main/resources/META-INF/pluginIcon.svg" width = "35px"/>
-A simple plugin that allows programmers to compile code straight from Android Studio to the robot without building the entire app and over WI-FI.
+A simple plugin that allows programmers to compile code straight from Android Studio to the robot without building the entire app and over WI-FI. Located on the JetBrains Marketplace <a href = "https://plugins.jetbrains.com/plugin/18659-onbotstudio">here</a>
 
 ## Installation
 1. **Important:** Update Android Studio! If you have not installed or set up Android Studio for FTC, follow these [instructions](https://gm0.org/en/latest/docs/software/using-android-studio.html)
