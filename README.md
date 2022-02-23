@@ -1,4 +1,4 @@
-# OnBotStudio
+# OnBotStudio <img src="https://raw.githubusercontent.com/TheAmazingBrianPowell/OnBotStudio/master/src/main/resources/META-INF/pluginIcon.svg" width = "35px"/>
 A simple plugin that allows programmers to compile code straight from Android Studio to the robot without building the entire app and over WI-FI.
 
 ## Installation
