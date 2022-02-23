@@ -1,4 +1,8 @@
 # OnBotStudio <img src="https://raw.githubusercontent.com/TheAmazingBrianPowell/OnBotStudio/master/src/main/resources/META-INF/pluginIcon.svg" width = "35px"/>
+
+![Version](https://img.shields.io/jetbrains/plugin/v/18659)
+![Rating](https://img.shields.io/jetbrains/plugin/r/rating/18659)
+
 A simple plugin that allows programmers to compile code straight from Android Studio to the robot without building the entire app and over WI-FI. Located on the JetBrains Marketplace <a href = "https://plugins.jetbrains.com/plugin/18659-onbotstudio">here</a>
 
 ## Installation
