@@ -18,7 +18,13 @@ A simple plugin that allows programmers to compile code straight from Android St
    [![OnBotStudio Setup Video](https://img.youtube.com/vi/Ph1MKyJTvrk/maxresdefault.jpg)](
    https://youtu.be/Ph1MKyJTvrk)
 
-## Usage
+## Mission and usage
+Our mission is to provide an easier, better environment for young programmers and advanced programmers alike to program. We hope that by releasing this project, new programmers will have access to the better file management, in-editor documentation, code suggesting that Android Studio provides, and not have to deal with the frustration of the OnBotJava bugs.
+
+Watch our video on about our plugin here:
+[![OnBotStudio Setup Video](https://img.youtube.com/vi/gh6fifDKwZg/maxresdefault.jpg)](
+   https://youtu.be/gh6fifDKwZg)
+
 In the bottom right corner, there is a blue wrench. Clicking this will run the OnBotJava compiling process, and the results will be printed in the console. The Wi-Fi must be connected to the robot in order for this to compile.
 
 ## Bugs
