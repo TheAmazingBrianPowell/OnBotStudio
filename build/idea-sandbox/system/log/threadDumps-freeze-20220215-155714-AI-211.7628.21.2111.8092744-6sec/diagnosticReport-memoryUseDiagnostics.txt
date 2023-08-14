@@ -1,3 +1,0 @@
-Low memory events count: 0
-Total heap: 442MB
-Current heap used: 286MB
